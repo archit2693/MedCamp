@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Morena Med Camp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+    <!-- Strings related to feedback-->
+     <string name="Name">Name</string>
+     <string name="Age">Age</string>
+     <string name="contact">Contact Number</string>
+     <string name="address">Address</string>
+
+     <string name="Submit">Submit</string>
+     <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Other">Others</string>
+     <string name="Rate">Rate on scale of 5 rate your experience of:</string>
+     <string name="Reg">1.Registration</string>
+     <string name="Pickup">2.Pick up and Drop facility</string>
+     <string name="Treatment">3.Treatment given by doctors</string>
+     <string name="Attitude">4.Attitude of staff</string>
+     <string name="Management">5.Management</string>
+     <string name="Food">6.Food</string>
+     <string name="Hospitality">7.Hospitality</string>
+     <string name="overall">8.Overall Experience</string>
+     <string name="option1">Very disappointed</string>
+     <string name="option2">Disappointed</string>
+     <string name="option3">Average</string>
+     <string name="option4">Good</string>
+     <string name="option5">Excellent</string>
+    <string name="Remarks">Any other remarks?</string>
+
+
+</resources>

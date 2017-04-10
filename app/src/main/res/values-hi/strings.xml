@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Morena Med Camp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">उपयोगकर्ता नाम</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">साइन इन करें</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="error_invalid_email">इस उपयोगकर्ता नाम अवैध है</string>
+    <string name="error_invalid_password">यह पासवर्ड बहुत छोटा है</string>
+    <string name="error_incorrect_password">यह पासवर्ड गलत है</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+    <!-- Strings related to feedback-->
+     <string name="Name">रोगी का नाम</string>
+     <string name="Age">आयु</string>
+    <string name="contact">कांटेक्ट नंबर</string>
+    <string name="address">पता</string>
+     <string name="Submit">जमा करें</string>
+     <string name="Gender">लिंग</string>
+     <string name="Male">नर</string>
+     <string name="Female">महिला</string>
+     <string name="Other">अन्य</string>
+
+     <string name="Rate">5 की दर पर अपने अनुभव का मूल्यांकन करें:</string>
+     <string name="Reg">1. पंजीकरण *</string>
+     <string name="Pickup">2. यात्रा सुविधा *</string>
+     <string name="Treatment">3. डॉक्टरों द्वारा दिए गए उपचार *</string>
+     <string name="Attitude">4. स्टाफ का रवैया *</string>
+     <string name="Management">5. प्रबंध *</string>
+     <string name="Food">6. भोजन *</string>
+     <string name="Hospitality">7. सत्कार *</string>
+     <string name="Remarks">9. किसी भी अन्य टिप्पणी?</string>
+     <string name="overall">8. समग्र अनुभव *</string>
+
+     <string name="option1">बहुत निराश</string>
+     <string name="option2">निराश</string>
+     <string name="option3">औसत</string>
+     <string name="option4">अच्छा</string>
+     <string name="option5">अति उत्कृष्ट</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
